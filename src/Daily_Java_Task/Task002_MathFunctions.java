@@ -14,7 +14,8 @@ public class Task002_MathFunctions {
         int y = 10;
         int z = 10;
 
-        // cube root of (x^2 + y^2 - |z|)
+        // cube root of (x*x + y*y - absolute vale of |z|)
+        //Absolute value of |10|= 10, |-10|=10
         double result = Math.cbrt((x*x) + (y*y) - Math.abs(z));
         System.out.println("Result: "+ result);
 
