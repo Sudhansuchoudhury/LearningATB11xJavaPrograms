@@ -1,6 +1,6 @@
 package ex_01_Java_Basics;
 
-public class Lab011_BasicArithmetic {
+public class Lab012_BasicArithmetic {
     public static void main(String[] args) {
         int X = 10, Y = 10, Z = 10;
 
