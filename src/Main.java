@@ -10,6 +10,9 @@ public class Main {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
+            //The value in single quote (' ') are Characters
+            //The value in double quote (" ") are String. Java will show the value as it is written in the double Quote.
+            //To find the results of anything we need to give input without quotes
         }
     }
 }
