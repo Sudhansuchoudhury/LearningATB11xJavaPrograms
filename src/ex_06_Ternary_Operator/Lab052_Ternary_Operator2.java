@@ -7,5 +7,6 @@ public class Lab052_Ternary_Operator2 {
         String result = number>0 ? "Positive" : "Negative";
         System.out.println(result);
 
+
     }
 }

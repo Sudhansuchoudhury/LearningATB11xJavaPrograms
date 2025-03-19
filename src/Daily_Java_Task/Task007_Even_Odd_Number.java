@@ -11,6 +11,8 @@ public class Task007_Even_Odd_Number {
             System.out.println("Even Number");}
         else {
             System.out.println("Odd Number");
+            sn.close();
+
             }
         }
     }
