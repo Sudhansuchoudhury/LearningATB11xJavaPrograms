@@ -10,5 +10,9 @@ public class Lab055_Ternary_Operator_Max_No {
 
         int max = x > y ? x : y;
         System.out.println(max);
+
+        String Result=x>y? "x": "y";
+        System.out.println(Result);
+
     }
 }
