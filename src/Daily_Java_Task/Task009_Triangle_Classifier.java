@@ -16,7 +16,7 @@ public class Task009_Triangle_Classifier {
         if (S1==S2 && S2==S3) {
             System.out.println("The triangle is equilateral");
         }
-        else if(S1==S2 || S2==S3) {
+        else if(S1==S2 || S2==S3 ||S1==S3) {
             System.out.println("The triangle is Isosceles.");
         }
         else {System.out.println("The triangle is Scalene.");}
